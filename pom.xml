@@ -18,7 +18,7 @@
     <dependency>
       <groupId>me.ramswaroop.jbot</groupId>
       <artifactId>jbot</artifactId>
-      <version>4.1.1-SNAPSHOT</version>
+      <version>4.1.0</version>
     </dependency>
   </dependencies>
 
